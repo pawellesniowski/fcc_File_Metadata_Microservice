@@ -1,0 +1,23 @@
+{
+  "name": "5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawellesniowski/fcc_File_Metadata_Microservice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pawellesniowski/fcc_File_Metadata_Microservice/issues"
+  },
+  "homepage": "https://github.com/pawellesniowski/fcc_File_Metadata_Microservice#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "multer": "^1.3.0"
+  }
+}
